@@ -1,11 +1,12 @@
 ### Hi there 👋👀
 -I am Priyanshu Gagiya, currently pursuing a Btech in ICT ( Information and Communication Technology ) at [DAIICT](https://www.daiict.ac.in).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=535&lines=Problem+Solving;Backend+Developer;Competitive+Programming)](https://github.com/PriyanshuGagiya)
 
--I hold the Team Lead Position at SEC-DCEI ( DA-IICT Centre for Entrepreneurship and Incubation ).
+-I hold the Team Lead Position at [SEC-DCEI ( DA-IICT Centre for Entrepreneurship and Incubation )](http://ceid.daiict.ac.in/).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGagiya&show_icons=true&theme=transparent)
 
-
+<a href="https://www.linkedin.com/in/priyanshu-gagiya-612aa6220/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 <!--
 **PriyanshuGagiya/PriyanshuGagiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
