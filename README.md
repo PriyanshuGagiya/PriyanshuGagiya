@@ -8,7 +8,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGagiya&show_icons=true&theme=transparent)
 
 - Connect with me:
-<a href="https://www.linkedin.com/in/priyanshu-gagiya-612aa6220/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-gagiya-612aa6220/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="15" width="20" /></a>
 
 <!--
 **PriyanshuGagiya/PriyanshuGagiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
