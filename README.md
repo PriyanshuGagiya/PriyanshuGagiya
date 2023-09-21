@@ -1,4 +1,7 @@
 ### Hi there 👋👀
+-I am Priyanshu Gagiya, currently pursuing a Btech in ICT ( Information and Communication Technology ) at [DAIICT](https://www.daiict.ac.in).
+-I hold the Team Lead Position at SEC-DCEI ( DA-IICT Centre for Entrepreneurship and Incubation ).
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGagiya&show_icons=true&theme=transparent)
 
 
