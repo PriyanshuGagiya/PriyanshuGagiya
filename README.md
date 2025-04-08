@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=535&lines=Problem+Solving;Backend+Developer;Competitive+Programming)](https://github.com/PriyanshuGagiya)
 
--I hold the Team Lead Position at [SEC-DCEI ( DA-IICT Centre for Entrepreneurship and Incubation )](http://ceid.daiict.ac.in/).
+- Currently working as a Product Engineer @Sprinklr.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshuGagiya&show_icons=true&theme=transparent)
 
